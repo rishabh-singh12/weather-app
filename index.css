@@ -242,6 +242,17 @@ body {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+h1 {
+  background-color: green;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
 
 @media screen and (max-width: 500px) {
   body {
